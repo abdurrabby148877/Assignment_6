@@ -240,21 +240,8 @@ const App = () => {
           <div className="flex gap-10"><span>Privacy Policy</span><span>Terms of Service</span><span>Cookies</span></div>
         </div>
       </footer>
-
       <ToastContainer position="bottom-right" autoClose={1500} theme="colored" hideProgressBar={false} closeOnClick pauseOnHover draggable />
     </div>
   );
 };
-
-export default App;/ /   R e f i n e d   p r o d u c t   c a r d   U I   w i t h   b e t t e r   s p a c i n g   a n d   s h a d o w  
- / /   L o g i c   f o r   a d d i n g   p r o d u c t s   a n d   u p d a t i n g   c o u n t   i n   n a v b a r  
- / /   I n t e g r a t e d   n o t i f i c a t i o n s   f o r   a   b e t t e r   u s e r   e x p e r i e n c e  
- / /   F u n c t i o n a l i t y   t o   r e m o v e   i t e m s   a n d   c l e a r   t h e   c a r t  
- / /   P r o f e s s i o n a l   f o o t e r   a d d e d  
- / /   F i n a l   r e s p o n s i v e   c h e c k   a n d   c l e a n u p  
- / /   U I :   A d d e d   b a n n e r   a n d   s t a t s   s e c t i o n  
- / /   L o g i c :   H a n d l i n g   p r o d u c t   d a t a   f r o m   j s o n  
- / /   F e a t u r e :   A d d e d   s h o p / c a r t   t o g g l e   l o g i c  
- / /   C h a l l e n g e :   I n t e g r a t e d   R e a c t - T o a s t i f y   a l e r t s  
- / /   D e s i g n :   C o m p l e t e d   p r o f e s s i o n a l   f o o t e r   w i t h   s o c i a l   i c o n s  
- 
+export default App;

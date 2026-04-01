@@ -256,4 +256,5 @@ export default App;/ /   R e f i n e d   p r o d u c t   c a r d   U I   w i t h
  / /   L o g i c :   H a n d l i n g   p r o d u c t   d a t a   f r o m   j s o n  
  / /   F e a t u r e :   A d d e d   s h o p / c a r t   t o g g l e   l o g i c  
  / /   C h a l l e n g e :   I n t e g r a t e d   R e a c t - T o a s t i f y   a l e r t s  
+ / /   D e s i g n :   C o m p l e t e d   p r o f e s s i o n a l   f o o t e r   w i t h   s o c i a l   i c o n s  
  

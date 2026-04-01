@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "DesignFlow Pro",
+    "description": "Collaborative tool for UI/UX designers to create stunning prototypes.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "success",
+    "features": ["Unlimited Projects", "AI Generation", "Team Sync"],
+    "icon": "/design-tool.png"
+  },
+  {
+    "id": 2,
+    "name": "SocialSync AI",
+    "description": "Automate your social media posts with smart scheduling insights.",
+    "price": 45.00,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "info",
+    "features": ["Auto-scheduling", "Analytics", "Multi-Platform"],
+    "icon": "/social-media.png"
+  },
+  {
+    "id": 3,
+    "name": "WriteEase",
+    "description": "Distraction-free writing environment for authors and copywriters.",
+    "price": 99.00,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "error",
+    "features": ["Cloud Sync", "Grammar Assistant", "PDF Export"],
+    "icon": "/writing_2327400 1.png"
+  },
+  {
+    "id": 4,
+    "name": "CodeRocket",
+    "description": "Accelerate your development workflow with AI-powered code completion.",
+    "price": 199.00,
+    "period": "one-time",
+    "tag": "Top Rated",
+    "tagType": "secondary",
+    "features": ["Multi-language", "Offline Mode", "Git Integration"],
+    "icon": "/rocket.png"
+  },
+  {
+    "id": 5,
+    "name": "UserConnect CRM",
+    "description": "Manage customer relationships and leads in one dashboard.",
+    "price": 150.00,
+    "period": "yearly",
+    "tag": "Trusted",
+    "tagType": "primary",
+    "features": ["Contact Management", "Email Sync", "Sales Pipeline"],
+    "icon": "/user.png"
+  },
+  {
+    "id": 6,
+    "name": "StreamPlay",
+    "description": "High-fidelity video editing software for professional creators.",
+    "price": 15.00,
+    "period": "monthly",
+    "tag": "Hot",
+    "tagType": "warning",
+    "features": ["4K Export", "Royalty-free Audio", "Social Upload"],
+    "icon": "/Play.png"
+  }
+]

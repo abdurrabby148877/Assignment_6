@@ -248,4 +248,5 @@ const App = () => {
 
 export default App;/ /   R e f i n e d   p r o d u c t   c a r d   U I   w i t h   b e t t e r   s p a c i n g   a n d   s h a d o w  
  / /   L o g i c   f o r   a d d i n g   p r o d u c t s   a n d   u p d a t i n g   c o u n t   i n   n a v b a r  
+ / /   I n t e g r a t e d   n o t i f i c a t i o n s   f o r   a   b e t t e r   u s e r   e x p e r i e n c e  
  

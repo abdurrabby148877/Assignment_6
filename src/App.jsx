@@ -253,4 +253,5 @@ export default App;/ /   R e f i n e d   p r o d u c t   c a r d   U I   w i t h
  / /   P r o f e s s i o n a l   f o o t e r   a d d e d  
  / /   F i n a l   r e s p o n s i v e   c h e c k   a n d   c l e a n u p  
  / /   U I :   A d d e d   b a n n e r   a n d   s t a t s   s e c t i o n  
+ / /   L o g i c :   H a n d l i n g   p r o d u c t   d a t a   f r o m   j s o n  
  
